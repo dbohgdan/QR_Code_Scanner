@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR Code Scanner</string>
+    <string name="scann">Scan QR code</string>
+    <string name="notification_message">QR code not recognized</string>
+    <string name="dialog_title">Scan result:</string>
+    <string name="neutral_button">Open site</string>
+    <string name="positive_button">OK</string>
+</resources>
